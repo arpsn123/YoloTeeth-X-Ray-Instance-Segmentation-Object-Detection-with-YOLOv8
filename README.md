@@ -1,6 +1,17 @@
 # YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![PyTorch](https://img.shields.io/badge/pytorch-1.9.0-red.svg) ![OpenCV](https://img.shields.io/badge/opencv-4.5.1-brightgreen.svg)  ![YOLOv8](https://img.shields.io/badge/yolov8-v0.1.0-orange.svg)  ![Deep Learning](https://img.shields.io/badge/deep%20learning-%F0%9F%8C%8C-blueviolet.svg) ![Machine Learning](https://img.shields.io/badge/machine%20learning-%F0%9F%92%96-green.svg)
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=social)
+![Maintenance Status](https://img.shields.io/badge/Maintenance-%20Active-green)
+
 
 YoloTeeth represents a significant advancement in the realm of dental image analysis, leveraging the state-of-the-art **YOLOv8** architecture for instance segmentation and object detection of teeth in X-ray images. This repository sets a new benchmark in dental radiography, facilitating improved diagnostic capabilities and supporting rigorous research initiatives by accurately identifying and delineating individual teeth. The project aims to provide dental professionals with enhanced tools for diagnosing and understanding oral health through detailed image analysis.
 
