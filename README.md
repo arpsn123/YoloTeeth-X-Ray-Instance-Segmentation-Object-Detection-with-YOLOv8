@@ -1,16 +1,36 @@
 # YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
-![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
-![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
-![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8)
-![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=social)
-![Maintenance Status](https://img.shields.io/badge/Maintenance-%20Active-green)
+<!-- Repository Overview Badges -->
+<div align="center">
+    <img src="https://img.shields.io/github/stars/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=ffca28" alt="GitHub Repo Stars">
+    <img src="https://img.shields.io/github/forks/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=00aaff" alt="GitHub Forks">
+    <img src="https://img.shields.io/github/watchers/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=00e676" alt="GitHub Watchers">
+</div>
+
+<!-- Issue & Pull Request Badges -->
+<div align="center">
+    <img src="https://img.shields.io/github/issues/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=ea4335" alt="GitHub Issues">
+    <img src="https://img.shields.io/github/issues-pr/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=ff9100" alt="GitHub Pull Requests">
+</div>
+
+<!-- Repository Activity & Stats Badges -->
+<div align="center">
+    <img src="https://img.shields.io/github/last-commit/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=673ab7" alt="GitHub Last Commit">
+    <img src="https://img.shields.io/github/contributors/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=388e3c" alt="GitHub Contributors">
+    <img src="https://img.shields.io/github/repo-size/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=303f9f" alt="GitHub Repo Size">
+</div>
+
+<!-- Language & Code Style Badges -->
+<div align="center">
+    <img src="https://img.shields.io/github/languages/count/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=607d8b" alt="GitHub Language Count">
+    <img src="https://img.shields.io/github/languages/top/arpsn123/YoloTeeth-X-Ray-Instance-Segmentation-Object-Detection-with-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=4caf50" alt="GitHub Top Language">
+</div>
+
+<!-- Maintenance Status Badge -->
+<div align="center">
+    <img src="https://img.shields.io/badge/Maintenance-%20Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Maintenance Status">
+</div>
+
 
 
 YoloTeeth represents a significant advancement in the realm of dental image analysis, leveraging the state-of-the-art **YOLOv8** architecture for instance segmentation and object detection of teeth in X-ray images. This repository sets a new benchmark in dental radiography, facilitating improved diagnostic capabilities and supporting rigorous research initiatives by accurately identifying and delineating individual teeth. The project aims to provide dental professionals with enhanced tools for diagnosing and understanding oral health through detailed image analysis.
